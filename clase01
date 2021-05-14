@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>I S 3</title>
+<h1><u>Ingeniería del Software 3</u></h1>
+<hr>
+</head>
+
+<body>
+<ol>
+	<li>Cuál es su nombre completo?</li>
+		<ul><li type="disc"><b>Santiago Agüero.</b></li></ul><br>
+	<li>Cuál es su número de matrícula?</li>
+		<ul><li type="disc"><u>CO6323.</u></li></ul><br>
+	<li>¿En qué ciudad nació? ¿En qué ciudad y barrio vive?</li>
+		<ul><li type="disc"><i>Nací en Asunción. Vivo en barrio Centro de la ciudad de Villa Elisa.</i></li></ul><br>
+	<li>¿Qué espera de la cátedra?</li>
+		<ul><li type="disc"><b><u>Espero conocer y aprender las herramientas necesarias para poder construir páginas web</u></b></li></ul><br>
+	<li>¿Qué contenidos espera que se toquen? ¿Cuáles no?</li>
+		<ul><li type="disc">Espero<sup>conocer los IDE's y editores de textos que nos serviría para el ámbito laboral.</sup></li></ul><br>
+	<li>¿Trabaja? Si trabaja, ¿cuántas horas semanales trabaja?</li>
+		<ul><li type="disc">Si trabajo, <sub>unas 40 a 45 horas semanales</sub></li></ul><br>
+	<li>¿Tiene Internet en su casa? ¿En su trabajo?</li>
+		<ul><li type="disc"><big>Si tengo, en ambos lugares.</big></li></ul><br>
+	<li>¿Sabe programar? ¿En qué lenguajes?</li>
+		<ul><li type="disc"><small>Conozco lo básico de HTML, PHP y JS.</small></li></ul><br>
+	<li>¿Tiene experiencia en desarrollo Web?</li>
+		<ul type="disc">
+			<li>Si, tengo experiencia a nivel escolar.</li>
+			<li>Desarrollamos una página web de bienvenida, con imágenes y enlaces a redes sociales.</li>
+			<br>
+		</ul>
+	<li>¿Cuántas materias le falta para terminar la carrera?</li>
+		<ul><li type="disc"><b><u><i>Me faltan 8 materias</i></u></b></li></ul><br>
+	<li>¿Cuántas materias toma este semestre?</li>
+		<ul><li type="disc">Tomo las 4 materias habilitadas en este semestre.</li></ul><br>
+	<li>¿Qué edad tiene?</li>
+		<ul><li type="disc">Tengo 25 años.</li></ul><br>
+	<li>¿Es repitente en esta cátedra?</li>
+		<ul><li type="disc">No, es la primera vez que la tomo</li></ul><br>
+	<li>¿Se dice EL internet o LA internet?</li>
+		<ul><li type="disc">Según el criterio de los expertos la palabra debe usarse sin ningún artículo, <b>ni masculino ni femenino.</b> En el caso de que hubiera que utilizar uno de los dos, sería preferible usar el femenino y decir <b>la Internet.</b></li></ul><br>
+	<li>¿Cuántos años tiene la Web? ¿Quién “inventó” la Web?</li>
+		<ul type="disc">
+			<li>El 12 de marzo de 1989, el investigador británico Tim Berners Lee describió en un informe para el CERN el protocolo para la transferencia de hipertextos, lo que un año después sería la <b>World Wide Web</b></li>
+			<li>Este año la Web complirá 32 años.</li></ul><br>
+	<li>¿De qué club de fútbol es hincha?</li>
+		<ul><li type="disc">Del club más popular <big><b>CERRO PORTEÑO</b></big></li></ul><br><br><br>
+		<i>Santiago Agüero</i><br>
+		<u>08/03/2021</u>
+
+	
+
+
+
+
+
+
+
+</ol>
+
+</body>
+
+</html>
