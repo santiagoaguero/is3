@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+   	background-image: url(../../images/fondo.jpg);
+	 background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+#main {
+	width: 1024px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto ;
+	border: solid;
+	background-color: rgba(3,76,100,0.6);
+}
+
+td, th {
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	border: solid;
+}
+
+nav {
+	margin-top: 250px;
+	padding-left:80px;
+	font-size: 2em;
+}
